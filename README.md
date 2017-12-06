@@ -21,6 +21,8 @@ post method http://testing.user.com/api/register
 
 like that you can see routes setting  on routes/api.php
 
+u can find db sql file on root directory (user.sql)
+
 
 
 
