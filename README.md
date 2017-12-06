@@ -3,7 +3,7 @@
 Installation instruction 
 =============================
 1. clon the repo
-2. change the name .env.sample to .env
+2. change the name .env.example to .env
 3. change the database name , db user name and db password on .env file
 4. terminal run this command php artisan migrate
 5. download all dependencies, libraries type on terminal (composer update) make sure you already have composter on your computer.
