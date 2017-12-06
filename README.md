@@ -15,7 +15,7 @@ setup on your local host(repo) , I normally  do on my linux  pc, lap, setup virt
 make sure storage folder writable if not you can make it writable by typing on terminal (chmod -R 777  storage/)
 
 make sure your rest api client postman whatever to setup header properly 
-example (Content-Type: application/json, X-Requested-With :XMLHttpRequest) otherwise validation error message redirect to page rather it shows error respons message via json 
+example (Content-Type: application/json, X-Requested-With :XMLHttpRequest) otherwise validation error message redirect to page rather it shows error message via json on api
 
 sample api example get method : http://testing.user.com/api/user
 http://testing.user.com/api/user/1
