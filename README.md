@@ -17,7 +17,7 @@ make sure storage folder writable if not you can make it writable by typing on t
 make sure your rest api client postman whatever to setup header properly 
 example (Content-Type: application/json, X-Requested-With :XMLHttpRequest) otherwise validation error message redirect to page rather it shows error message via json on api
 
-sample api example get method : http://testing.user.com/api/user
+sample api example get method : http://testing.user.com/api/user ,
 http://testing.user.com/api/user/1
 
 post method http://testing.user.com/api/register
